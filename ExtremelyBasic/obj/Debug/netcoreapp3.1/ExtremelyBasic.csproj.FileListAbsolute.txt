@@ -1,0 +1,11 @@
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.exe
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.deps.json
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.runtimeconfig.json
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.runtimeconfig.dev.json
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.dll
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\bin\Debug\netcoreapp3.1\ExtremelyBasic.pdb
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\obj\Debug\netcoreapp3.1\ExtremelyBasic.csprojAssemblyReference.cache
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\obj\Debug\netcoreapp3.1\ExtremelyBasic.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\obj\Debug\netcoreapp3.1\ExtremelyBasic.AssemblyInfo.cs
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\obj\Debug\netcoreapp3.1\ExtremelyBasic.dll
+C:\Users\Willian\Documents\Trabalho\TarefasUri\ExtremelyBasic\obj\Debug\netcoreapp3.1\ExtremelyBasic.pdb
